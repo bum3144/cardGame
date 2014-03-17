@@ -38,7 +38,7 @@ function createBoard() {
 	board.style.borderRadius= "10px";
 	board.style.backgroundImage = "url('board.jpg')";
 	board.setAttribute('id','board');
-    board.style.width= '90%';
+    board.style.width= '96%';
 	/* board.style.float = 'left';  */
    
 	board.style.display = 'inline-block'; 
